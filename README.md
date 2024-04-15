@@ -8,7 +8,7 @@ dell 페이지에 적용하여 작동을 테스트 하였습니다
 ## 개발 환경
   - OS : WIndows
   - Development Language: python(3.11)
-  - Libary: selenium
+  - Library: selenium
 
 ## 기능
 제품 URL 크롤링
